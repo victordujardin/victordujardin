@@ -5,3 +5,9 @@ Hello, I am Victor. I am a PhD student at <img src="assets/images/logo-uclouvain
 I prinipally use R and python for my different projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordujardin&layout=compact&theme=radical)
+
+
+
+<a href="https://uclouvain.be/fr/facultes/sc/lsba">
+  <img src="https://custom-icon-badges.demolab.com/badge/Place-Université Catholique de Louvain-3c6382?style=for-the-badge&logo=milestone&logoColor=white">
+</a>
