@@ -1,5 +1,6 @@
 Hello, I am Victor. I am a PhD student in Statistics and Machine Learning with a interest on graphs neural networks (GNN) Generative models. Feel free to browse to my different public repos ! 😁
 
+- 🔗 LinkedIn: [Victor Dujardin](https://www.linkedin.com/in/victor--dujardin/)
 <!--
 **victordujardin/victordujardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
