@@ -1,4 +1,4 @@
-Hello, I am Victor. I am a PhD student in Data Science with a interest on graphs neural networks (GNN) Generative models. Feel free to browse to my different public repos ! 😁
+Hello, I am Victor. I am a PhD student at ![UCLouvain](assets/images/logo-uclouvain-2021-320x256.webp) in Data Science with a interest on graphs neural networks (GNN) Generative models. Feel free to browse to my different public repos ! 😁
 
 - 🔗 LinkedIn: [Victor Dujardin](https://www.linkedin.com/in/victor--dujardin/)
 
