@@ -2,9 +2,7 @@ Hello, I am Victor. I am a PhD student in Statistics and Machine Learning with a
 
 - 🔗 LinkedIn: [Victor Dujardin](https://www.linkedin.com/in/victor--dujardin/)
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victordujardin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordujardin&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victordujardin&theme=radical)
 
 <!--
 **victordujardin/victordujardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
