@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello, I am Victor. I am a PhD student in Statistics and Machine Learning with a interest on graphs neural networks (GNN). Feel free to browse to my different public repos ! 
 
 <!--
 **victordujardin/victordujardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
