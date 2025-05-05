@@ -8,6 +8,6 @@ I prinipally use R and python for my different projects.
 
 
 
-<a href="https://uclouvain.be/fr/facultes/sc/lsba">
+<a href="https://www.uclouvain.be/en/research-institutes/lidam/isba">
   <img src="https://custom-icon-badges.demolab.com/badge/Place-Université Catholique de Louvain-3c6382?style=for-the-badge&logo=milestone&logoColor=white">
 </a>
